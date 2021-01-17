@@ -1,2 +1,2 @@
 # trainningGIT
-training git
+training git for project
